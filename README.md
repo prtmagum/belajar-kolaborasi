@@ -1,3 +1,3 @@
 # belajar-kolaborasi
-belajar GitHub did Dicoding sangat menyenangkan!
-memperbarui berkas redme
+belajar GitHub did Dicoding sangat menyenangkan!<br>
+memperbarui berkas redme dicoding
